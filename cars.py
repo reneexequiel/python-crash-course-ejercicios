@@ -10,7 +10,7 @@
 #         perfil[key] = value
 #     return perfil
 
-# car_profiles = make_car('mazda', 'demio', color='borgoña', año=2014, cilindrada=1.3)
+# car_profiles = make_car('qqq', 'rrr', color='bbb', año=5555, cilindrada=66)
 # print(car_profiles)
 
 
