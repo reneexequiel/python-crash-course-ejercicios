@@ -1,5 +1,5 @@
 #Archivo: User.py
-#Autor: Rene Marambio Andueza
+#Autor: Rene Marambio 
 #Fecha:28-11-2023
 #Descripcion: Ejercicio 9-3, se crea un script que sirve para almacenar un perfil de usuario, usando clases, atributos y metodos.
 
