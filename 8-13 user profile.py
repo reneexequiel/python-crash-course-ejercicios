@@ -12,7 +12,7 @@ def build_profile(first, last, genero,**user_info):
         profile[key] = value
     return profile
 
-user_profile = build_profile('Rene', 'Marambio', 'masculino',edad=34,location='Arica', 
-                            field='Informatica y Finanzas', email='rene.marambio@gmail.com', 
-                            telefono='+569-660-344-42')
+user_profile = build_profile('Rene', 'Marambio', 'masculino',edad=xx,location='xxxx', 
+                            field='Informatica y Finanzas', email='xxxx.xxxx@gmail.com', 
+                            telefono='+569-xxx-xxx-xx')
 print(user_profile)
