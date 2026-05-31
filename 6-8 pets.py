@@ -1,11 +1,11 @@
 chico = {
     "nombre": "Thor",
-    "apellido": "Andueza",
+    "apellido": "xxx",
     "edad": 4,
     "sexo": "Masculino",
     "raza":"salchicha",
     "tipo":"perro",
-    "nombre dueño":"Rene Antonio"
+    "nombre dueño":"xxx"
 }
 
 agata = {
@@ -15,7 +15,7 @@ agata = {
     "sexo": "Femenino",
     "raza":"mixta",
     "tipo":"perro",
-    "nombre dueño":"Pamela"
+    "nombre dueño":"xxx"
 }
 
 kuki = {
@@ -25,7 +25,7 @@ kuki = {
     "sexo": "Femenino",
     "raza":"mixta",
     "tipo":"perro",
-    "nombre dueño":"Pamela"
+    "nombre dueño":"xxx"
 }
 
 pola = {
@@ -35,10 +35,10 @@ pola = {
     "sexo": "Femenino",
     "raza":"mixta",
     "tipo":"gato",
-    "nombre dueño":"Pamela"
+    "nombre dueño":"xxx"
 }
 
-mascotas = [chico, agata, kuki, pola]
+mascotas = [thor, agata, kuki, pola]
 
 for mascota in mascotas:
     print(mascota["nombre"] + " " + mascota["apellido"] + " tiene", mascota["edad"], "años y es de sexo " + mascota["sexo"] + " y su dueño es " + mascota["nombre dueño"])   
