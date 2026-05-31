@@ -63,7 +63,7 @@ class Privileges():
 
 #se crea instancias
 usuario_kelo = Admin("Rene", "Marambio", "xx años", "Masculino", "Finanzas y Tecnologia", 
-               "xxx.xxxx@gmail.com", "+569-111-111-11", "Arica", "xxx #5555", "Chile")
+               "xxx.xxxx@gmail.com", "+569-111-111-11", "ddd", "xxx #5555", "www")
 
 #llamando instancias con sus metodos
 usuario_kelo.describe_user()
@@ -80,17 +80,8 @@ usuario_kelo_privileges = [
 usuario_kelo.privileges.privileges = usuario_kelo_privileges
 usuario_kelo.privileges.show_privileges()
 
-
-
-
-# usuario_pamela.describe_user()
-# usuario_mama.describe_user()
-# usuario_papa.describe_user()
-# print("\n")
 usuario_kelo.greet_user()
-# usuario_papa.greet_user()
-# usuario_mama.greet_user()
-# usuario_pamela.greet_user()
+
 
 
 
