@@ -6,7 +6,7 @@
 #     person = {'first':firs_name, 'last':last_name}
 #     return person
 
-# musician = build_person('rene', 'marambio')
+# musician = build_person('jjj', 'kkk')
 # print(musician)
 
 
@@ -28,7 +28,7 @@
 #         person['age'] = age
 #     return person
 
-# musician = build_person('rene', 'marambio', age=27)
+# musician = build_person('ppp', 'ddd', age=11)
 # print(musician)
 
 # mismo funcion pero mas corto
@@ -39,5 +39,5 @@
 #     #     person['age'] = age
 #     return person
 
-# musician = build_person('rene', 'marambio',27)
+# musician = build_person('hh', 'ñññ',11)
 # print(musician)
