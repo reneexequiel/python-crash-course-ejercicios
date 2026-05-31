@@ -1,5 +1,5 @@
 #Archivo: electric_car.py
-#Autor: Rene Marambio Andueza
+#Autor: Rene Marambio 
 #Fecha:12-12-2023
 #Descripcion: Se reutiliza el codigo del archivo car.py para agregarle herencia.
 
