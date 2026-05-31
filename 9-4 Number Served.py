@@ -1,5 +1,5 @@
 #Archivo: 9-4 Number Served.py
-#Autor: Rene Marambio Andueza
+#Autor: Rene Marambio 
 #Fecha:01-12-2023
 #Descripcion: modificar el ejercicio 9-1, para crear metodos, y modificar instancias.
 
@@ -23,7 +23,7 @@ class Restaurant():
         self.number_served += additional_served
 
 #instancia    
-restaurant = Restaurant('rayu', 'gourmet',10)
+restaurant = Restaurant('iii', 'gourmet',10)
 
 #llamando al metodo
 restaurant.describe_restaurant()
