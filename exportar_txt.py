@@ -9,7 +9,7 @@ def exportar_txt(filename):
         print("Ha habido un error, revisa el codigo.")
     
     else:
-        filename = pd.read_csv(r'/home/rene/Documentos/Progamacion/Python/Proyectos/Software de registro de constraseñas/dist/registro.txt',delimiter='\t')
+        filename = pd.read_csv(r'xxx',delimiter='\t')
         
         print("El archivo", filename, " fue exportado exitosamente.")
 
