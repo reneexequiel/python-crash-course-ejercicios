@@ -1,5 +1,5 @@
 #Archivo: Login Attemps.py
-#Autor: Rene Marambio Andueza
+#Autor: Rene Marambio 
 #Fecha:06-12-2023
 #Descripcion: Ejercicio 9-5, se reutiliza el codigo del ejercicio 9-3 para agregar atributos, metodos, etc.
 
@@ -49,17 +49,9 @@ class User():
         self.login_attempts = 0
 
 #se crea instancias
-usuario_kelo = User("Rene", "Marambio", "34 años", "Masculino", "Finanzas y Tecnologia", 
-               "rene.marambio@gmail.com", "+569-660-344-42", "Arica", "Rio yelcho #3841", "Chile")
+usuario_kelo = User("Rene", "Marambio", "xx años", "Masculino", "Finanzas y Tecnologia", 
+               "ñññ.ñññ@uuu.com", "+56111-111-11", "Arica", "kkk", "ñññ")
 
-# usuario_pamela = User("Pamela", "Marambio", "38 años", "Femenino", "Finanzas y contabilidad", 
-#                "pama.audiconsult@gmail.com", "+569-999-999-99", "Arica", "Rio yelcho #3837", "Chile")
-
-# usuario_mama = User("Marisol", "Andueza", "60 años", "Femenino", "Mantencion y aseo", 
-#                "marisol.cachorrita@gmail.com", "+569-888-888-88", "Arica", "Rio yelcho #3837", "Chile")
-
-# usuario_papa = User("Rene Antonio", "Marambio", "62 años", "Masculino", "Seguridad", 
-#                "rene.marambio.andueza@gmail.com", "+569-777-777-77", "Arica", "Rio yelcho #3841", "Chile")
 
 #se crea instancia para aumentar logins
 print("Haciendo 3 intentos de login")
