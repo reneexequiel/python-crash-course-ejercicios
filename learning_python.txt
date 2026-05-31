@@ -1,0 +1,4 @@
+En python tu puedes usar variables para almacenar numeros, decimales, cadenas, etc.
+En python tambien puedes usar bucles for y while para iterar o repetir una determinada accion.
+En python puedes usar funciones que sirven para crear o solucionar una tarea de manera mas eficiente y rapida.
+En python tambien puedes usar condicionales como if, elif y else.
