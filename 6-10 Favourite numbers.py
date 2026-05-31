@@ -2,8 +2,8 @@
 
 
 favourite_numbers = {
-    "rene":7,
-    "pamela":10,
+    "me":7,
+    "sister":10,
     "mama":5,
     "papa":10
     }
