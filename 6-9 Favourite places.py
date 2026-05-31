@@ -1,9 +1,9 @@
 
 
 favourite_places = {
-    "rene":["puerto varas", "frutillar", "santa cruz"],
-    "pamela":["puerto varas", "lima"],
-    "mama":["serena", "lima", "tacna"]
+    "me":["puerto varas", "frutillar", "santa cruz"],
+    "sister":["puerto varas", "lima"],
+    "person3":["serena", "lima", "tacna"]
 }
 
 for nombre, lugares in favourite_places.items():
