@@ -1,5 +1,5 @@
 #Archivo: car.py
-#Autor: Rene Marambio Andueza
+#Autor: Rene Marambio 
 #Fecha:01-12-2023
 #Descripcion: Se crea un script para modificar atributos a traves de los metodos.
 
