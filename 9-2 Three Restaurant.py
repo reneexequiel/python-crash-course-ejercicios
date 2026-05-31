@@ -16,10 +16,10 @@ class Restaurant():
         print("El restaurant esta abierto.")
     
 #instancia    
-restaurant = Restaurant('RAYU', "5 estrellas")
-restaurant_republicanos = Restaurant('Republicano', "4,7 estrellas")
-restaurant_alborada = Restaurant('Alborada', "4,2 estrellas")
-restaurant_akwa = Restaurant('Akwa', "4,1 estrellas")
+restaurant = Restaurant('ddd', "5 estrellas")
+restaurant_republicanos = Restaurant('sss', "4,7 estrellas")
+restaurant_alborada = Restaurant('qqq', "4,2 estrellas")
+restaurant_akwa = Restaurant('zzz', "4,1 estrellas")
 
 #imprimiendo las instancias
 print(restaurant.name.title() + " es un restaurant gourmet")
